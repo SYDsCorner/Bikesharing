@@ -23,7 +23,7 @@
 ## Results 
 
 - Tableau Public Link
-   - [Link to dashboard](https://public.tableau.com/app/profile/siyada.h./viz/NY_CitibikeAnalysis/NYCCitiBikeStory)
+   - NYC Citi Bike Analysis >> [Link to dashboard](https://public.tableau.com/app/profile/siyada.h./viz/NY_CitibikeAnalysis/NYCCitiBikeStory)
 
 -------------------------------------------------------------------------------------------------------------------
 
