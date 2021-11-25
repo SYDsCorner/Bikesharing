@@ -29,7 +29,7 @@
 
 - Story Point 1
 
-   ![NY_Citibike_1](https://user-images.githubusercontent.com/89308251/143313552-6fa07021-320a-40b7-bfb9-ef6f44e717db.png)
+   ![NY_Citibike_1](https://user-images.githubusercontent.com/89308251/143334048-18f78955-57d7-40a1-97e6-ad8294e726e5.png)
 
    - User Analysis
       - The total rides are 2,344,224.
