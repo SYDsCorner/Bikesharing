@@ -16,7 +16,7 @@
    - Jupyter notebook 6.4.3
       - Pandas library (to convert datatype)
 
-- Data sourced: 
+- Data source: 
    - Citi Bike trip data in August 2019 [(201908-citibike-tripdata.csv)](https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip)
 
 
